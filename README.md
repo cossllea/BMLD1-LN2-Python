@@ -14,3 +14,6 @@ Projektidee:
   Dieses Projekt analysiert Gesundheitsausgaben anhand von zwei Datensätzen:
   1. Out-of-Pocket-Ausgaben Anteil der privaten Gesundheitsausgaben an den Gesamtausgaben.
   2. Öffentliche Gesundheitsausgaben: Anteil der öffentlichen Gesundheitsausgaben am GDP/BIP.
+     
+Quellen:
+https://ourworldindata.org/financing-healthcare

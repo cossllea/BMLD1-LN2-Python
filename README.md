@@ -1,7 +1,7 @@
 BMLD1-LN2-Python
 
 
-Isla Ferris & Leah Cosslett
+Isla Ferris, Leah Cosslett, Ana Maria Andrade
 
 
 Thema: Gesundheitskosten
